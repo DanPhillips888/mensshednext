@@ -24,8 +24,8 @@ function MyApp({ Component, pageProps }) {
     </Layout>
     <br/><br/>
     <footer className="container">
-    <p className="float-end"><a href="./index.html">Back to top</a></p>
-    <p>&copy; 2022 Mandurah Mens Shed co. &middot; <a href='./'>Dan Phillips Web Development</a> &middot; <a href="./bioPage.html">Contact</a></p>
+    <p className="float-end"><a href="/">Back to top</a></p>
+    <p>&copy; 2022 Mandurah Mens Shed co. &middot; <a href='./'>Dan Phillips Web Development</a> &middot; <a href="/bioPage">Contact</a></p>
   </footer>
     </>
   )
