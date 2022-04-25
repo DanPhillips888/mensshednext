@@ -26,7 +26,7 @@ export default function BioPage() {
               <h5 className="card-title">Paul Ellis</h5>
               <Image
                 alt="player2"
-                src="/images/working2.jpeg"
+                src="/images/working2.JPG"
                 height={300}
                 width={300}
               />

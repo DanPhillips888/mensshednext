@@ -28,7 +28,7 @@ export default function Products() {
             <div className="card-body">
               <h5 className="card-title">Classic Rocking Ride On Toys</h5>
               <Image 
-                src="/images/rockingRoo.jpeg"
+                src="/images/rockingRoo.JPG"
                 alt="item2"
                 height={300}
                 width={300}
