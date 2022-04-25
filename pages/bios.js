@@ -11,7 +11,7 @@ export default function BioPage() {
         <div className="card text-white bg-primary mb-3">
             <div className="card-header">Woodsmith</div>
             <div className="card-body">
-              <h5 className="card-title">Ron Howhard</h5>
+              <h5 className="card-title">Kevin Manning</h5>
               <Image src="/images/ronHowhard.jpeg"
                 alt="player1"
                 height={300}
@@ -36,7 +36,7 @@ export default function BioPage() {
           <div className="card text-white bg-primary mb-3">
             <div className="card-header">Cutter</div>
             <div className="card-body">
-              <h5 className="card-title">Boris the Blade</h5>
+              <h5 className="card-title">Syd Ness</h5>
               <Image
                 alt="player3"
                 src="/images/borisTheBlade.jpeg"

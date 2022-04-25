@@ -41,9 +41,9 @@ export default function Home() {
       <div className="carousel-item">
         <Image 
           src="/images/working.jpeg"
-          layout="fill"
-          // height={144}
-          // width={144}
+          // layout="fill"
+          height={444}
+          width={400}
           alt="Worker"   
         />
         <div className="container">
