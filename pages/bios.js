@@ -23,10 +23,10 @@ export default function BioPage() {
           <div className="card text-white bg-primary mb-3">
             <div className="card-header">Turner</div>
             <div className="card-body">
-              <h5 className="card-title">William Turner</h5>
+              <h5 className="card-title">Paul Ellis</h5>
               <Image
                 alt="player2"
-                src="/images/williamTurner.jpeg"
+                src="/images/working2.jpeg"
                 height={300}
                 width={300}
               />

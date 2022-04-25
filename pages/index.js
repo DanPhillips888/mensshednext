@@ -59,7 +59,7 @@ export default function Home() {
 
       <div className="carousel-item">
         <Image
-          src="/images/historyPeople.jpeg"
+          src="/images/atTheShed.jpeg"
           layout="fill"
           // height={144}
           // width={144}

@@ -28,12 +28,12 @@ export default function Products() {
             <div className="card-body">
               <h5 className="card-title">Classic Rocking Ride On Toys</h5>
               <Image 
-                src="/images/rockingHorse.jpeg"
+                src="/images/rockingRoo.jpeg"
                 alt="item2"
                 height={300}
                 width={300}
               />
-              <p className="card-text">The cutest rocking horses made with love and recycled timber</p>
+              <p className="card-text">Unique Rocking Roo made with love and recycled timber</p>
               <Link href="/rockers" className="btn btn-primary"><a>Shop Rocking toys</a></Link>
             </div>
           </div>
